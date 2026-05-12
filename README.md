@@ -1,5 +1,3 @@
-## OAVQA
-
 This is the official repo of the paper [Subjective and objective audio-visual quality assessment for omnidirectional videos](https://ieeexplore.ieee.org/abstract/document/11185324):
 ```
 @article{zhu2025subjective,
